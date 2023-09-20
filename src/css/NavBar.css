@@ -1,0 +1,15 @@
+.Navbar {
+    background-color: #30BCED;
+    z-index: 999;
+    position: relative;
+}
+
+.colorWhite {
+    color: #fefffe !important;
+    opacity: 1!important
+}
+
+.resultSearch:hover {
+    background-color: #FFFFFF;
+    opacity: 1!important
+}

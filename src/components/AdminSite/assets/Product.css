@@ -1,0 +1,25 @@
+.imageProduct {
+    width: 50px !important;
+    height: auto;
+}
+
+.productName {
+    margin-top: .7rem;
+}
+
+.listItem:hover {
+    color: #30BCED;
+}
+
+.form {
+    text-align: left;
+    margin-bottom: 1rem;
+}
+
+.item {
+    margin-bottom: 1rem;
+}
+
+.buttonSubmit {
+    text-align: center;
+}

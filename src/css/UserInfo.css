@@ -1,0 +1,11 @@
+.UserInfo {
+    margin-left: 5rem;
+    margin-right: 5rem;
+    text-align: left;
+}
+
+.upload-photo {
+    opacity: 0;
+    position: absolute;
+    z-index: -1;
+}
